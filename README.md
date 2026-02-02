@@ -1,27 +1,75 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Jain</h1>
-<h3 align="center">A frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-jain2001&label=Profile%20views&color=0e75b6&style=flat" alt="yash-jain2001" /> </p>
+<h1 align="center">⚡ Yash Jain — Full-Stack Web Developer</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-jain2001" alt="yash-jain2001" /></a> </p>
-
-- 🌱 I’m currently learning **javascript**
-
-- 💬 Ask me about **html, css**
-
-- 📫 How to reach me **jainjainpriyanshu2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu jain" height="30" width="40" /></a>
-<a href="https://fb.com/priyanshu jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu jain" height="30" width="40" /></a>
-<a href="https://instagram.com/jain._016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jain._016" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+Node+%7C+MongoDB;Frontend+%7C+Backend+%7C+Full-Stack;Building+Fast+Modern+Web+Apps;Always+Learning+Always+Shipping" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash-jain2001&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain2001&show_icons=true&locale=en&layout=compact" alt="yash-jain2001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-jain2001&show_icons=true&locale=en" alt="yash-jain2001" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain2001&" alt="yash-jain2001" /></p>
+💻 Full-Stack Web Developer  
+⚡ Strong in React, Next.js, Node & MongoDB  
+🚀 Passionate about UI, performance & scalable apps  
+🧩 Always learning & improving  
+🔥 Turning ideas into real products  
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+---
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
+
+---
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+---
+
+### 🧰 Tools  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+
+## ⚡ Animated Skill Bars
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,python,git)
+
+```text
+HTML        ██████████░░ 95%
+CSS         █████████░░░ 90%
+JavaScript  ██████████░░ 95%
+React       █████████░░░ 92%
+Next.js     ████████░░░░ 85%
+Node.js     ████████░░░░ 88%
+MongoDB     ████████░░░░ 85%
+Python      ███████░░░░░ 80%
+```
+<p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain2001&theme=tokyonight&hide_border=true" /> </p> <p align="center"> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-jain2001&theme=tokyo-night" /> </p>
+

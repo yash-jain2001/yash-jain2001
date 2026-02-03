@@ -72,4 +72,8 @@ Python      ███████░░░░░ 80%
 ```
 <p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain2001&theme=tokyonight&hide_border=true" /> </p> <p align="center"> </p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-jain2001&theme=tokyo-night" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yash-jain2001/yash-jain2001/output/github-contribution-grid-snake-neon.svg" />
+</p>
+
 

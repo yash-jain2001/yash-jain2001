@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Yash Jain — Full-Stack Web Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+Node+%7C+MongoDB;Frontend+%7C+Backend+%7C+Full-Stack;Building+Fast+Modern+Web+Apps;Always+Learning+Always+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+Node+%7C+MongoDB;Frontend+%7C+Backend+%7C+Full-Stack;Building+Fast+Modern+Web+Apps;Always+Learning+Always+Growing" />
 </p>
 
 <p align="center">

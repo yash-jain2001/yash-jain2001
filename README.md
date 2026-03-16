@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&lines=React+%7C+Next.js+%7C+Node+%7C+MongoDB;Frontend+%7C+Backend+%7C+Full-Stack;Building+Fast+Modern+Web+Apps;Always+Learning+Always+Growing" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-jain2001&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🧠 About Me

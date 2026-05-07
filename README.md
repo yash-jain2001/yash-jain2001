@@ -54,18 +54,7 @@
 
 ## ⚡ Animated Skill Bars
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,python,git)
-
-```text
-HTML        ██████████░░ 95%
-CSS         █████████░░░ 90%
-JavaScript  ██████████░░ 95%
-React       █████████░░░ 92%
-Next.js     ████████░░░░ 85%
-Node.js     ████████░░░░ 88%
-MongoDB     ████████░░░░ 85%
-Python      ███████░░░░░ 80%
-```
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,python,git,express,bootstrap)
 <p align="center"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain2001&theme=tokyonight&hide_border=true" /> </p> <p align="center"> </p>
 <!-- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-jain2001&theme=tokyo-night" /> </p> -->
 <p align="center">
